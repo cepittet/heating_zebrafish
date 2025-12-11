@@ -13,6 +13,7 @@ This small repository plots severity rating matrices following heatshocks conduc
 - 37°C heatshock
 - 39°C heatshock
 ## Plots
-- Barplot of the average severity rating, for each condition and line
+- Barplot of the total severity rating, for each condition and line
+- Barplot of the mean severity rating, for each condition and line
 - Lineplots of the average severity rating by segment, for each condition and line 
 
